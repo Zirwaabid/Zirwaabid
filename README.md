@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zirwa Abid</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Web Developer | Continuous Learner Passionate about crafting responsive, user-friendly web applications. 💻 Proficient in: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, Git, GitHub, EJS, and Wix Studio. 🌟 Building my way forward with every project I create. 📚 Constantly leveling up my skills to stay ahead in the tech world.</h3>
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/18b7744ef108aab659f95a8cdeb0c5017be6e8bca3af6c8c29e72e0092be2024/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966">
+<img align="right" alt="coding" width="300px" src="https://camo.githubusercontent.com/18b7744ef108aab659f95a8cdeb0c5017be6e8bca3af6c8c29e72e0092be2024/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zirwaabid&label=Profile%20views&color=0e75b6&style=flat" alt="zirwaabid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zirwaabid" alt="zirwaabid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -13,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zirwaabid](https://github.com/Zirwaabid)
 
-- 💬 Ask me about **Frontend,gsap,three.js,express.js,node.js,wix,javaScript**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP,GSAP,EXPRESS.JS,NODE.JS,WIX,FIGMA**
 
 - 📫 How to reach me **zirwaabid2005@gmail.com**
 
