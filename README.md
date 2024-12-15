@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Database**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zirwaabid](https://github.com/Zirwaabid)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://zirwaabid.netlify.app
+
+)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP,GSAP,EXPRESS.JS,NODE.JS,WIX,FIGMA**
 
