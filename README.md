@@ -24,8 +24,6 @@
 
 ### 🔭 Current Projects
 
-- [👕 Clothing Brand Website](#) – Full-stack eCommerce site using MongoDB, Express.js, and EJS
-- [📱 JStack](https://jstackes.netlify.app) – A developer stack showcase
 - [💼 Resume Builder SaaS (Idea Phase)] – AI-based resume and job application automation platform
 
 ---
@@ -42,7 +40,6 @@
 
 - 📧 Email: **zirwaabid2005@gmail.com**  
 - 🌐 Portfolio: [https://zirwaabid.netlify.app](https://zirwaabid.netlify.app)  
-- 📸 Instagram: [@zirwa-abid](https://instagram.com/zirwa-abid)
 
 ---
 
